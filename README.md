@@ -56,6 +56,8 @@ So I:
 }
 ```
 
+---
+
 ## 🔍 Features
 
 - Structured and normalized exercise data  
